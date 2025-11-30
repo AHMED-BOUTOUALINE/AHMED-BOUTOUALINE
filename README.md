@@ -62,15 +62,15 @@
         <img src="/assets/Github.svg" width="48" height="48" alt="Python" />
       </a>
       <br>GITHUB
-    <tr>
+    </td>
     <td align="center" width="96">
       <a href="#btn-tech">
         <img src="./assets/mysql-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>MySQL
     </td>
-    </td>
     </tr>
+    <tr>
     <td align="center" width="96">
       <a href="#btn-tech">
         <img src="./assets/figma.svg" width="48" height="48" alt="TypeScript" />
