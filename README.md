@@ -57,6 +57,8 @@
       </a>
       <br>Docker
     </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
       <a href="#btn-tech">
         <img src="/assets/Github.svg" width="48" height="48" alt="Python" />
