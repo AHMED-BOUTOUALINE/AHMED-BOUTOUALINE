@@ -15,9 +15,6 @@
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
 <h2 align="left" id="btn-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
