@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at boutoualineahmed@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFiYjYyOXJyajRmMzR1d2hza3h6ZHVvN3drYmVibmxqem9nY3JuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5nqHp5ggngbwMLrH0Q/giphy.gif" height="200"/>
+<img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFiYjYyOXJyajRmMzR1d2hza3h6ZHVvN3drYmVibmxqem9nY3JuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5nqHp5ggngbwMLrH0Q/giphy.gif" height="300" witdh="100"/>
 <h2 align="left" id="btn-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
