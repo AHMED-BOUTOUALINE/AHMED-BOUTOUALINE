@@ -18,12 +18,62 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<h2 align="left" id="btn-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#btn-tech">
+        <img src="/assets/Css3.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>CSS 3
+    </td>
+    <td align="center" width="96">
+      <a href="#btn-tech">
+        <img src="/assets/Github.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>GITHUB
+    </td>
+    <td align="center" width="96">
+      <a href="#btn-tech">
+        <img src="/assets/bootstrap-plain.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#btn-tech">
+        <img src="./assets/mysql-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#btn-tech" >
+        <img src="/assets/Php.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96"> 
+      <a href="#btn-tech" >
+        <img src="/assets/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#btn-tech">
+        <img src="/assets/react-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#btn-tech" >
+        <img src="/assets/javascript-original.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
