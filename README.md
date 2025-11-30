@@ -29,21 +29,21 @@
     </td>
     <td align="center" width="96">
       <a href="#btn-tech">
-        <img src="/assets/Github.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>GITHUB
-    </td>
-    <td align="center" width="96">
-      <a href="#btn-tech">
         <img src="/assets/bootstrap-plain.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#btn-tech">
-        <img src="./assets/mysql-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="#btn-tech" >
+        <img src="/assets/javascript-original.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>MySQL
+      <br>JavaScript
+    </td>
+    <td align="center"  width="96">
+      <a href="#btn-tech">
+        <img src="/assets/react-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>React
     </td>
     <td align="center" width="96">
       <a href="#btn-tech" >
@@ -57,17 +57,35 @@
       </a>
       <br>Docker
     </td>
-    <td align="center"  width="96">
+    <td align="center" width="96">
       <a href="#btn-tech">
-        <img src="/assets/react-original.svg" width="48" height="48" alt="Debian" />
+        <img src="/assets/Github.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>React
+      <br>GITHUB
     </td>
     <td align="center" width="96">
-      <a href="#btn-tech" >
-        <img src="/assets/javascript-original.svg" width="48" height="48" alt="Grafana" />
+      <a href="#btn-tech">
+        <img src="./assets/mysql-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>JavaScript
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#btn-tech">
+        <img src="./assets/figma.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#btn-tech">
+        <img src="./assets/git.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#btn-tech">
+        <img src="./assets/jira.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Jira
     </td>
   </tr>
 </table>
