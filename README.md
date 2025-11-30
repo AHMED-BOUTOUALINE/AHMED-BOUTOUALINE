@@ -89,6 +89,18 @@
       </a>
       <br>Jira
     </td>
+    <td align="center" width="96">
+      <a href="#btn-tech">
+        <img src="./assets/vs-code.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>VS-Code
+    </td>
+    <td align="center" width="96">
+      <a href="#btn-tech">
+        <img src="./assets/laravel.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Laravel
+    </td>
   </tr>
 </table>
 
