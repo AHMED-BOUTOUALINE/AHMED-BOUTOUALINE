@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at [GMAIL](https://mail.google.com/mail/?view=cm&fs=1&to=boutoualineahmed@gmail.com)! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="/assets/son.gif" height="300" width="1000"/>
+![preview]<img alt="Night Coding" src="/assets/son.gif" height="300" width="1000"/>
 <h2 align="left" id="btn-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
