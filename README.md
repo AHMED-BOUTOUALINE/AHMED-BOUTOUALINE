@@ -117,7 +117,7 @@
 <table align="center">
     <tr>
         <td align="center" width="96">
-        <a href="boutoualineahmed@gmail.com">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=boutoualineahmed@gmail.com">
             <img src="/assets/gmail.svg" width="48" height="48" alt="Gmail" />
         </a>
         <br>Gmail
