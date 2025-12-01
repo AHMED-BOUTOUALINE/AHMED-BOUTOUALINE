@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm currently focusing on developing my skills in Full-Stack Web Development, covering everything from responsive UI design to server-side development and API integration .\
 ✍️ &nbsp;Outside of coding, I spend my time reading books .\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at [GMAIL](https://mail.google.com/mail/?view=cm&fs=1&to=boutoualineahmed@gmail.com) boutoualineahmed@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at [GMAIL](https://mail.google.com/mail/?view=cm&fs=1&to=boutoualineahmed@gmail.com)! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFiYjYyOXJyajRmMzR1d2hza3h6ZHVvN3drYmVibmxqem9nY3JuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5nqHp5ggngbwMLrH0Q/giphy.gif" height="300" width="1000"/>
