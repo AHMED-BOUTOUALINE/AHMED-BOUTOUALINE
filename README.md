@@ -23,31 +23,31 @@
   <tr>
     <td align="center" width="96">
       <a href="#btn-tech">
-        <img src="/assets/Css3.svg" width="48" height="48" alt="Golang" />
+        <img src="/assets/Css3.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS 3
     </td>
     <td align="center" width="96">
       <a href="#btn-tech">
-        <img src="/assets/bootstrap-plain.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="/assets/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#btn-tech" >
-        <img src="/assets/javascript-original.svg" width="48" height="48" alt="Grafana" />
+        <img src="/assets/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center"  width="96">
       <a href="#btn-tech">
-        <img src="/assets/react-original.svg" width="48" height="48" alt="Debian" />
+        <img src="/assets/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#btn-tech" >
-        <img src="/assets/Php.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="/assets/Php.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
@@ -59,13 +59,13 @@
     </td>
     <td align="center" width="96">
       <a href="#btn-tech">
-        <img src="/assets/Github.svg" width="48" height="48" alt="Python" />
+        <img src="/assets/Github.svg" width="48" height="48" alt="GITHUB" />
       </a>
       <br>GITHUB
     </td>
     <td align="center" width="96">
       <a href="#btn-tech">
-        <img src="./assets/mysql-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
@@ -73,31 +73,31 @@
     <tr>
     <td align="center" width="96">
       <a href="#btn-tech">
-        <img src="./assets/figma.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/figma.svg" width="48" height="48" alt="Figma" />
       </a>
       <br>Figma
     </td>
     <td align="center" width="96">
       <a href="#btn-tech">
-        <img src="./assets/git.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/git.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="#btn-tech">
-        <img src="./assets/jira.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/jira.svg" width="48" height="48" alt="Jira" />
       </a>
       <br>Jira
     </td>
     <td align="center" width="96">
       <a href="#btn-tech">
-        <img src="./assets/vs-code.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/vs-code.svg" width="48" height="48" alt="VS-Code" />
       </a>
       <br>VS-Code
     </td>
     <td align="center" width="96">
       <a href="#btn-tech">
-        <img src="./assets/laravel.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/laravel.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
@@ -113,6 +113,36 @@
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
+
+<table>
+    <tr>
+        <td align="center" width="96">
+        <a href="boutoualineahmed@gmail.com">
+            <img src="/assets/gmail.svg" width="48" height="48" alt="Gmail" />
+        </a>
+        <br>Gmail
+        </td>
+        <td align="center" width="96">
+        <a href="https://www.linkedin.com/in/ahmed-boutoualine-3781282a4/">
+            <img src="/assets/linkedin.svg" width="48" height="48" alt="linkedin" />
+        </a>
+        <br>linkedin
+        </td>
+        <td align="center" width="96">
+        <a href="https://x.com/thisIsJustUser">
+            <img src="/assets/X.svg" width="48" height="48" alt="x" />
+        </a>
+        <br>X
+        </td>
+        <td align="center" width="96">
+        <a href="https://www.facebook.com/profile.php?id=100049789944290#">
+            <img src="/assets/facebook.svg" width="48" height="48" alt="Facebook" />
+        </a>
+        <br>Facebook
+        </td>
+    </tr>
+</table>
+
 
 <p align="center">
 <a href="https://linkedin.com/in/ahmed-boutoualine-3781282a4/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
