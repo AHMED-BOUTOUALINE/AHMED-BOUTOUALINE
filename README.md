@@ -1,4 +1,4 @@
-![AHMED BOUTOUALINE Banner](/assets/who_care.png)
+![AHMED BOUTOUALINE Banner](/assets/who_care2.png)
 
 <img alt="Night Coding" src="/assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm AHMED</h2>
 
